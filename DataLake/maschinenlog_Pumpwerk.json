@@ -1,0 +1,1802 @@
+[
+    {
+        "timestamp": "2024-01-01T00:00:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 71.84,
+        "pressure_bar": 8.28,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T00:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 87.1,
+        "pressure_bar": 8.65,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T00:30:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 76.2,
+        "pressure_bar": 8.75,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T00:45:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 82.21,
+        "pressure_bar": 8.86,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T01:00:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 78.15,
+        "pressure_bar": 8.88,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T01:15:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 84.36,
+        "pressure_bar": 9.27,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T01:30:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 88.03,
+        "pressure_bar": 9.35,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T01:45:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 88.79,
+        "pressure_bar": 9.65,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T02:00:00",
+        "machine_id": "MX1002",
+        "status": "FAIL",
+        "temperature_C": 87.75,
+        "pressure_bar": 9.52,
+        "error_code": "E001",
+        "downtime_min": 42
+    },
+    {
+        "timestamp": "2024-01-01T02:15:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 72.61,
+        "pressure_bar": 8.79,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T02:30:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 82.16,
+        "pressure_bar": 8.89,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T02:45:00",
+        "machine_id": "MX1001",
+        "status": "FAIL",
+        "temperature_C": 92.47,
+        "pressure_bar": 9.66,
+        "error_code": "E001",
+        "downtime_min": 50
+    },
+    {
+        "timestamp": "2024-01-01T03:00:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 73.4,
+        "pressure_bar": 8.81,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T03:15:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 65.8,
+        "pressure_bar": 8.12,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T03:30:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 78.56,
+        "pressure_bar": 9.33,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T03:45:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 82.36,
+        "pressure_bar": 9.26,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T04:00:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 76.16,
+        "pressure_bar": 8.35,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T04:15:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 61.06,
+        "pressure_bar": 7.99,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T04:30:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 71.64,
+        "pressure_bar": 8.4,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T04:45:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 65.78,
+        "pressure_bar": 7.99,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T05:00:00",
+        "machine_id": "MX1003",
+        "status": "FAIL",
+        "temperature_C": 75.23,
+        "pressure_bar": 8.32,
+        "error_code": "E002",
+        "downtime_min": 39
+    },
+    {
+        "timestamp": "2024-01-01T05:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 89.4,
+        "pressure_bar": 9.52,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T05:30:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 81.42,
+        "pressure_bar": 8.88,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T05:45:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 79.24,
+        "pressure_bar": 8.48,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T06:00:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 84.79,
+        "pressure_bar": 8.81,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T06:15:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 67.24,
+        "pressure_bar": 8.44,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T06:30:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 76.61,
+        "pressure_bar": 8.83,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T06:45:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 78.16,
+        "pressure_bar": 8.35,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T07:00:00",
+        "machine_id": "MX1004",
+        "status": "FAIL",
+        "temperature_C": 66.18,
+        "pressure_bar": 8.03,
+        "error_code": "E001",
+        "downtime_min": 57
+    },
+    {
+        "timestamp": "2024-01-01T07:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 83.15,
+        "pressure_bar": 9.12,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T07:30:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 71.59,
+        "pressure_bar": 9.12,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T07:45:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 65.83,
+        "pressure_bar": 8.65,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T08:00:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 81.11,
+        "pressure_bar": 8.43,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T08:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 75.24,
+        "pressure_bar": 9.22,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T08:30:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 82.35,
+        "pressure_bar": 9.2,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T08:45:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 78.44,
+        "pressure_bar": 8.46,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T09:00:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 74.79,
+        "pressure_bar": 8.41,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T09:15:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 82.48,
+        "pressure_bar": 8.92,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T09:30:00",
+        "machine_id": "MX1003",
+        "status": "FAIL",
+        "temperature_C": 71.65,
+        "pressure_bar": 8.72,
+        "error_code": "E004",
+        "downtime_min": 21
+    },
+    {
+        "timestamp": "2024-01-01T09:45:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 75.46,
+        "pressure_bar": 9.13,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T10:00:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 80.23,
+        "pressure_bar": 8.58,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T10:15:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 67.57,
+        "pressure_bar": 8.73,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T10:30:00",
+        "machine_id": "MX1004",
+        "status": "FAIL",
+        "temperature_C": 62.04,
+        "pressure_bar": 8.16,
+        "error_code": "E001",
+        "downtime_min": 56
+    },
+    {
+        "timestamp": "2024-01-01T10:45:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 73.71,
+        "pressure_bar": 8.7,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T11:00:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 65.59,
+        "pressure_bar": 8.16,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T11:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 72.52,
+        "pressure_bar": 8.87,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T11:30:00",
+        "machine_id": "MX1001",
+        "status": "FAIL",
+        "temperature_C": 80.7,
+        "pressure_bar": 8.63,
+        "error_code": "E005",
+        "downtime_min": 56
+    },
+    {
+        "timestamp": "2024-01-01T11:45:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 75.93,
+        "pressure_bar": 8.88,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T12:00:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 87.45,
+        "pressure_bar": 8.92,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T12:15:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 67.18,
+        "pressure_bar": 8.22,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T12:30:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 82.01,
+        "pressure_bar": 9.34,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T12:45:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 82.05,
+        "pressure_bar": 9.46,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T13:00:00",
+        "machine_id": "MX1001",
+        "status": "FAIL",
+        "temperature_C": 77.54,
+        "pressure_bar": 9.24,
+        "error_code": "E003",
+        "downtime_min": 40
+    },
+    {
+        "timestamp": "2024-01-01T13:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 71.88,
+        "pressure_bar": 8.72,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T13:30:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 68.17,
+        "pressure_bar": 8.08,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T13:45:00",
+        "machine_id": "MX1003",
+        "status": "FAIL",
+        "temperature_C": 73.22,
+        "pressure_bar": 8.64,
+        "error_code": "E006",
+        "downtime_min": 13
+    },
+    {
+        "timestamp": "2024-01-01T14:00:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 80.23,
+        "pressure_bar": 8.9,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T14:15:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 79.55,
+        "pressure_bar": 9.12,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T14:30:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 85.56,
+        "pressure_bar": 9.32,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T14:45:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 65.52,
+        "pressure_bar": 8.37,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T15:00:00",
+        "machine_id": "MX1001",
+        "status": "FAIL",
+        "temperature_C": 91.62,
+        "pressure_bar": 8.75,
+        "error_code": "E006",
+        "downtime_min": 11
+    },
+    {
+        "timestamp": "2024-01-01T15:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 80.66,
+        "pressure_bar": 9.19,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T15:30:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 82.66,
+        "pressure_bar": 9.34,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T15:45:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 88.07,
+        "pressure_bar": 9.3,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T16:00:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 64.69,
+        "pressure_bar": 8.53,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T16:15:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 75.95,
+        "pressure_bar": 8.31,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T16:30:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 87.94,
+        "pressure_bar": 9.23,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T16:45:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 64.7,
+        "pressure_bar": 8.92,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T17:00:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 78.12,
+        "pressure_bar": 8.6,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T17:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 80.78,
+        "pressure_bar": 9.13,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T17:30:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 76.93,
+        "pressure_bar": 9.28,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T17:45:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 80.96,
+        "pressure_bar": 8.63,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T18:00:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 83.88,
+        "pressure_bar": 8.97,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T18:15:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 84.86,
+        "pressure_bar": 8.88,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T18:30:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 75.81,
+        "pressure_bar": 8.64,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T18:45:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 80.37,
+        "pressure_bar": 8.8,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T19:00:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 77.63,
+        "pressure_bar": 8.58,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T19:15:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 64.61,
+        "pressure_bar": 8.38,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T19:30:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 71.48,
+        "pressure_bar": 8.76,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T19:45:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 62.09,
+        "pressure_bar": 8.63,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T20:00:00",
+        "machine_id": "MX1003",
+        "status": "FAIL",
+        "temperature_C": 78.11,
+        "pressure_bar": 9.17,
+        "error_code": "E001",
+        "downtime_min": 22
+    },
+    {
+        "timestamp": "2024-01-01T20:15:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 73.74,
+        "pressure_bar": 8.36,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T20:30:00",
+        "machine_id": "MX1004",
+        "status": "FAIL",
+        "temperature_C": 60.8,
+        "pressure_bar": 8.66,
+        "error_code": "E001",
+        "downtime_min": 53
+    },
+    {
+        "timestamp": "2024-01-01T20:45:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 71.76,
+        "pressure_bar": 8.61,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T21:00:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 71.93,
+        "pressure_bar": 8.19,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T21:15:00",
+        "machine_id": "MX1003",
+        "status": "FAIL",
+        "temperature_C": 81.02,
+        "pressure_bar": 8.47,
+        "error_code": "E004",
+        "downtime_min": 29
+    },
+    {
+        "timestamp": "2024-01-01T21:30:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 60.59,
+        "pressure_bar": 8.02,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T21:45:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 75.09,
+        "pressure_bar": 8.26,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T22:00:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 84.7,
+        "pressure_bar": 8.97,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T22:15:00",
+        "machine_id": "MX1002",
+        "status": "FAIL",
+        "temperature_C": 79.8,
+        "pressure_bar": 8.49,
+        "error_code": "E004",
+        "downtime_min": 22
+    },
+    {
+        "timestamp": "2024-01-01T22:30:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 64.26,
+        "pressure_bar": 8.79,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T22:45:00",
+        "machine_id": "MX1002",
+        "status": "FAIL",
+        "temperature_C": 85.1,
+        "pressure_bar": 9.29,
+        "error_code": "E005",
+        "downtime_min": 10
+    },
+    {
+        "timestamp": "2024-01-01T23:00:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 72.51,
+        "pressure_bar": 9.16,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T23:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 73.02,
+        "pressure_bar": 8.64,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T23:30:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 88.27,
+        "pressure_bar": 9.14,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-01T23:45:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 86.77,
+        "pressure_bar": 8.88,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T00:00:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 82.69,
+        "pressure_bar": 8.56,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T00:15:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 72.53,
+        "pressure_bar": 8.87,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T00:30:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 75.36,
+        "pressure_bar": 9.11,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T00:45:00",
+        "machine_id": "MX1002",
+        "status": "FAIL",
+        "temperature_C": 82.4,
+        "pressure_bar": 9.02,
+        "error_code": "E002",
+        "downtime_min": 36
+    },
+    {
+        "timestamp": "2024-01-02T01:00:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 83.07,
+        "pressure_bar": 8.89,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T01:15:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 79.93,
+        "pressure_bar": 8.51,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T01:30:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 67.09,
+        "pressure_bar": 8.44,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T01:45:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 83.02,
+        "pressure_bar": 8.78,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T02:00:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 86.72,
+        "pressure_bar": 8.97,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T02:15:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 60.61,
+        "pressure_bar": 8.71,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T02:30:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 82.39,
+        "pressure_bar": 9.38,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T02:45:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 91.48,
+        "pressure_bar": 9.22,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T03:00:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 76.55,
+        "pressure_bar": 8.75,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T03:15:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 83.9,
+        "pressure_bar": 9.35,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T03:30:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 87.14,
+        "pressure_bar": 8.64,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T03:45:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 77.02,
+        "pressure_bar": 9.04,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T04:00:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 66.94,
+        "pressure_bar": 8.75,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T04:15:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 80.36,
+        "pressure_bar": 9.0,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T04:30:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 88.03,
+        "pressure_bar": 9.29,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T04:45:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 74.89,
+        "pressure_bar": 9.06,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T05:00:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 73.3,
+        "pressure_bar": 8.2,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T05:15:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 76.33,
+        "pressure_bar": 8.42,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T05:30:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 76.8,
+        "pressure_bar": 8.42,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T05:45:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 76.76,
+        "pressure_bar": 8.97,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T06:00:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 88.29,
+        "pressure_bar": 9.3,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T06:15:00",
+        "machine_id": "MX1004",
+        "status": "FAIL",
+        "temperature_C": 74.12,
+        "pressure_bar": 8.54,
+        "error_code": "E004",
+        "downtime_min": 49
+    },
+    {
+        "timestamp": "2024-01-02T06:30:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 86.91,
+        "pressure_bar": 9.56,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T06:45:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 63.49,
+        "pressure_bar": 8.71,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T07:00:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 70.08,
+        "pressure_bar": 8.49,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T07:15:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 91.36,
+        "pressure_bar": 8.76,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T07:30:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 82.31,
+        "pressure_bar": 8.8,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T07:45:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 71.68,
+        "pressure_bar": 8.3,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T08:00:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 76.12,
+        "pressure_bar": 8.86,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T08:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 72.49,
+        "pressure_bar": 8.45,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T08:30:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 86.8,
+        "pressure_bar": 9.5,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T08:45:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 86.67,
+        "pressure_bar": 8.89,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T09:00:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 82.74,
+        "pressure_bar": 8.48,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T09:15:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 78.71,
+        "pressure_bar": 9.06,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T09:30:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 80.61,
+        "pressure_bar": 8.77,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T09:45:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 89.75,
+        "pressure_bar": 9.28,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T10:00:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 75.93,
+        "pressure_bar": 8.45,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T10:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 76.66,
+        "pressure_bar": 8.99,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T10:30:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 80.12,
+        "pressure_bar": 8.6,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T10:45:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 73.01,
+        "pressure_bar": 8.88,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T11:00:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 81.56,
+        "pressure_bar": 8.52,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T11:15:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 65.82,
+        "pressure_bar": 8.25,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T11:30:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 70.52,
+        "pressure_bar": 8.96,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T11:45:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 80.92,
+        "pressure_bar": 9.19,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T12:00:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 78.03,
+        "pressure_bar": 8.65,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T12:15:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 65.97,
+        "pressure_bar": 8.89,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T12:30:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 72.4,
+        "pressure_bar": 9.01,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T12:45:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 62.73,
+        "pressure_bar": 8.18,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T13:00:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 76.56,
+        "pressure_bar": 8.68,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T13:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 78.81,
+        "pressure_bar": 8.98,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T13:30:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 60.14,
+        "pressure_bar": 7.81,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T13:45:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 70.59,
+        "pressure_bar": 8.91,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T14:00:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 75.01,
+        "pressure_bar": 9.2,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T14:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 89.02,
+        "pressure_bar": 9.48,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T14:30:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 66.33,
+        "pressure_bar": 8.15,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T14:45:00",
+        "machine_id": "MX1003",
+        "status": "FAIL",
+        "temperature_C": 70.27,
+        "pressure_bar": 8.2,
+        "error_code": "E001",
+        "downtime_min": 31
+    },
+    {
+        "timestamp": "2024-01-02T15:00:00",
+        "machine_id": "MX1002",
+        "status": "FAIL",
+        "temperature_C": 73.11,
+        "pressure_bar": 8.37,
+        "error_code": "E006",
+        "downtime_min": 48
+    },
+    {
+        "timestamp": "2024-01-02T15:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 75.79,
+        "pressure_bar": 8.47,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T15:30:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 80.49,
+        "pressure_bar": 8.82,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T15:45:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 92.71,
+        "pressure_bar": 9.61,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T16:00:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 86.4,
+        "pressure_bar": 9.16,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T16:15:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 83.7,
+        "pressure_bar": 8.58,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T16:30:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 84.3,
+        "pressure_bar": 9.47,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T16:45:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 75.1,
+        "pressure_bar": 9.06,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T17:00:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 81.99,
+        "pressure_bar": 8.65,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T17:15:00",
+        "machine_id": "MX1002",
+        "status": "FAIL",
+        "temperature_C": 82.59,
+        "pressure_bar": 9.09,
+        "error_code": "E002",
+        "downtime_min": 12
+    },
+    {
+        "timestamp": "2024-01-02T17:30:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 75.53,
+        "pressure_bar": 8.57,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T17:45:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 77.6,
+        "pressure_bar": 8.67,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T18:00:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 87.14,
+        "pressure_bar": 8.65,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T18:15:00",
+        "machine_id": "MX1001",
+        "status": "FAIL",
+        "temperature_C": 94.37,
+        "pressure_bar": 9.6,
+        "error_code": "E003",
+        "downtime_min": 30
+    },
+    {
+        "timestamp": "2024-01-02T18:30:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 74.68,
+        "pressure_bar": 8.31,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T18:45:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 79.64,
+        "pressure_bar": 8.95,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T19:00:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 81.56,
+        "pressure_bar": 8.48,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T19:15:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 63.86,
+        "pressure_bar": 8.14,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T19:30:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 83.27,
+        "pressure_bar": 8.97,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T19:45:00",
+        "machine_id": "MX1002",
+        "status": "FAIL",
+        "temperature_C": 78.94,
+        "pressure_bar": 8.79,
+        "error_code": "E004",
+        "downtime_min": 30
+    },
+    {
+        "timestamp": "2024-01-02T20:00:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 86.17,
+        "pressure_bar": 9.57,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T20:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 81.3,
+        "pressure_bar": 9.16,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T20:30:00",
+        "machine_id": "MX1001",
+        "status": "FAIL",
+        "temperature_C": 76.84,
+        "pressure_bar": 9.17,
+        "error_code": "E005",
+        "downtime_min": 17
+    },
+    {
+        "timestamp": "2024-01-02T20:45:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 92.78,
+        "pressure_bar": 9.4,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T21:00:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 70.66,
+        "pressure_bar": 8.17,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T21:15:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 76.86,
+        "pressure_bar": 8.83,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T21:30:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 72.07,
+        "pressure_bar": 9.15,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T21:45:00",
+        "machine_id": "MX1003",
+        "status": "FAIL",
+        "temperature_C": 83.26,
+        "pressure_bar": 9.26,
+        "error_code": "E002",
+        "downtime_min": 32
+    },
+    {
+        "timestamp": "2024-01-02T22:00:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 94.77,
+        "pressure_bar": 9.52,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T22:15:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 72.35,
+        "pressure_bar": 8.79,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T22:30:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 74.09,
+        "pressure_bar": 8.45,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T22:45:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 77.5,
+        "pressure_bar": 8.39,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T23:00:00",
+        "machine_id": "MX1004",
+        "status": "FAIL",
+        "temperature_C": 79.86,
+        "pressure_bar": 8.45,
+        "error_code": "E002",
+        "downtime_min": 13
+    },
+    {
+        "timestamp": "2024-01-02T23:15:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 75.62,
+        "pressure_bar": 8.38,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T23:30:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 61.82,
+        "pressure_bar": 8.42,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-02T23:45:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 77.0,
+        "pressure_bar": 8.51,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-03T00:00:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 65.13,
+        "pressure_bar": 8.7,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-03T00:15:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 92.77,
+        "pressure_bar": 9.36,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-03T00:30:00",
+        "machine_id": "MX1004",
+        "status": "OK",
+        "temperature_C": 73.12,
+        "pressure_bar": 8.67,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-03T00:45:00",
+        "machine_id": "MX1003",
+        "status": "OK",
+        "temperature_C": 77.84,
+        "pressure_bar": 9.13,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-03T01:00:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 76.92,
+        "pressure_bar": 8.83,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-03T01:15:00",
+        "machine_id": "MX1004",
+        "status": "FAIL",
+        "temperature_C": 69.46,
+        "pressure_bar": 8.71,
+        "error_code": "E002",
+        "downtime_min": 29
+    },
+    {
+        "timestamp": "2024-01-03T01:30:00",
+        "machine_id": "MX1002",
+        "status": "OK",
+        "temperature_C": 86.74,
+        "pressure_bar": 8.64,
+        "error_code": "",
+        "downtime_min": 0
+    },
+    {
+        "timestamp": "2024-01-03T01:45:00",
+        "machine_id": "MX1001",
+        "status": "OK",
+        "temperature_C": 81.29,
+        "pressure_bar": 9.22,
+        "error_code": "",
+        "downtime_min": 0
+    }
+]
